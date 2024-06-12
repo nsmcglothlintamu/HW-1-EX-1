@@ -1,10 +1,10 @@
 #!/bin/bash
 
-# stage changes
-git _
+# Stage changes
+git add .
 
-# commit changes
-git _
+# Commit changes
+git commit -m "Your commit message here"
 
-# push changes
-git _
+# Push changes
+git push origin main
